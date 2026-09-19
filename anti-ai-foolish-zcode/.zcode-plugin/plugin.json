@@ -1,0 +1,9 @@
+{
+  "name": "anti-ai-foolish-zcode",
+  "version": "3.2.0",
+  "description": "anti-ai-foolish 的 ZCode 插件版（De-AI gatekeeper validated on 52 Zhuque-labeled fragments）",
+  "author": {
+    "name": "w"
+  },
+  "skills": "./skills"
+}

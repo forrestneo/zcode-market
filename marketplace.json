@@ -1,0 +1,19 @@
+{
+  "name": "forrestneo-zcode-market",
+  "plugins": [
+    {
+      "name": "anti-ai-foolish-zcode",
+      "source": "./anti-ai-foolish-zcode",
+      "version": "3.2.0",
+      "description": "De-AI gatekeeper validated on 52 Zhuque-labeled fragments (1108 rules A/B-tested, 97% recall)",
+      "displayName": "anti-ai-foolish-zcode",
+      "displayName_i18n": {
+        "zh-CN": "anti-ai-foolish-zcode（反AI傻味·去AI终检）"
+      },
+      "description_i18n": {
+        "zh-CN": "1108条规则经52片段朱雀实测语料A/B验证的去AI味终检，ZCode插件版。"
+      },
+      "category": "productivity"
+    }
+  ]
+}

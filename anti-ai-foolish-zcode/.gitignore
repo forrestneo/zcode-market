@@ -1,0 +1,5 @@
+.mimosa/
+__pycache__/
+*.pyc
+skills/anti-ai-foolish-zcode/validation/corpus/
+.DS_Store

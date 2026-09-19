@@ -1,0 +1,19 @@
+{
+  "name": "anti-ai-foolish-market",
+  "plugins": [
+    {
+      "name": "anti-ai-foolish-zcode",
+      "source": "./",
+      "version": "3.2.0",
+      "description": "De-AI gatekeeper validated on 52 Zhuque-labeled fragments",
+      "displayName": "anti-ai-foolish-zcode",
+      "displayName_i18n": {
+        "zh-CN": "anti-ai-foolish-zcode（反AI傻味·ZCode插件版）"
+      },
+      "description_i18n": {
+        "zh-CN": "1108条规则经52片段朱雀实测语料A/B验证的去AI终检，ZCode插件封装。"
+      },
+      "category": "productivity"
+    }
+  ]
+}
